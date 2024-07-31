@@ -1,0 +1,33 @@
+
+body{
+    background-color: moccasin;
+}
+
+#container{
+    height: 500px;
+    width: 300px;
+    background-color: #FDFFF5;
+    margin-left: 900px;
+    margin-top: 150px;
+    border-radius: 10px;
+    border: 5px solid #FDFFF5;
+    border: 5px solid black;
+}
+
+img{
+    height: 250px;
+    width: 250px;
+    margin-left: 25px;
+    margin-top:10px;
+    border-radius: 10px;
+    border: 4px solid black;
+}
+h2{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif                                                                ;
+}
+p{
+   text-align: center; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    margin-top: 50px;
+}
